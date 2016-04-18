@@ -1,0 +1,33 @@
+ListView {
+    margin: 5;
+    opacity: 0;
+}
+Label {
+    margin: 15;
+    font-size: 25;
+    horizontal-align: left;
+    vertical-align: center;
+}
+TextField {
+    font-size: 25;
+    border-width: 5;
+    border-style: solid;
+    border-color: #034793;
+    
+}
+Image {
+    margin: 10;
+}
+
+ActionBar {
+    color: white;
+   
+    background-color: #2E6DAD;
+}
+
+Button{
+    color:white;
+    background-color: #2E6DAD;
+    font-size: 30;
+}
+

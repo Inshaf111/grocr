@@ -1,0 +1,22 @@
+Page {
+    background-color: white;
+    font-size: 22;
+}
+TextField {
+    margin: 10;
+    padding: 10;
+}
+Image {
+    margin-top: 20;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 80;
+}
+Button {
+    margin: 10;
+    padding: 10;
+}
+
+.link {
+    background-color: transparent;
+}
